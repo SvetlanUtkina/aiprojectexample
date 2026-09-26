@@ -1,1 +1,1 @@
-# aiprojectexample
+This project was developed as part of a university AI course to explore and compare the Minimax and Alpha-Beta Pruning algorithms. It demonstrates how these algorithms can be used for decision-making in turn-based games and allows their performance to be compared.
